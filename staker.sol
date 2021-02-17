@@ -154,7 +154,7 @@ contract BSKTStaker is Ownable {
     function unstake(uint256 amount) public {
         require(
             _stakeMap[_msgSender()].stakedAmount >= amount,
-            "BSKTStaker: unstake amount exceededs the staked amount."
+            "BSKTStaker: unstake amount exceedes the staked amount."
         );
 
         uint256 currentTimestamp = uint256(now);
