@@ -778,7 +778,7 @@ contract BasketCoin is ERC20, Ownable {
         address to,
         uint256 amount
     ) internal override {
-        require(rewardContract != address(0), 'BSKT: rewardContract is zeor address.');
+        require(rewardContract != address(0), 'BSKT: rewardContract is zero address.');
         
         if(from == owner() || to == owner()) {
             super._transfer(from, to,  amount);
@@ -850,7 +850,7 @@ contract BasketCoin is ERC20, Ownable {
     }
     
     function updateRewardContract(address _rewardContract) public onlyOwner {
-        require(_rewardContract != address(0), 'BSKT: rewardContract is zeor address.');
+        require(_rewardContract != address(0), 'BSKT: rewardContract is zero address.');
         rewardContract = _rewardContract;
         emit RewardContractUpdated(_rewardContract);
     }
