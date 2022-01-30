@@ -26,7 +26,7 @@ remaining 0,5% goes to Liquidity pool.
    its value. The security so adopted is intended to ensure a constant and
    stable increase in the value of tokens. Thanks to the correct match of coins
    in our basket, its value is less susceptible to fluctuations appearing in the
-   cryptocurrency market. The BSKT token security chart looks like this:
+   cryptocurrency market. The Basket currently includes:
 
 - Bitcoin (BTC),
 - Ethereum (ETH),
