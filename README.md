@@ -1,37 +1,43 @@
 # Description:
+BasketCoin - Meticulously crafted basket of cryptocurrencies
+which are utilized in numerous trusted Staking & DeFi platforms
+to strengthen deflation process along with the ‚buy-back & burn’.
 
-BasketCoin(BSKT) the first deflationary token, secured with a basket of
-cryptocurrencies, with the possibility of staking.
+BasketCoin combined several key elements that together make it so unique.
+They include:
 
-BasketCoin is:
-
-- Deflationary,
-- With collateral - covering its value,
-- With the system of repurchase and burning of BSKT tokens.
+1. Diversified basket of cryptocurrencies,
+2. Deflationary feature,
+3. Buyback and Burn process,
+4. Possibility of Staking,
 
 &nbsp;
 
-1. A fee of 2% of the value of each transaction will be taken from the
-   transfer - half is burned out, the other half goes to the staking/reward
-   redistribution pool which indeed speeds up the process of reducing supply.
+1. A fee of 2,5% of the value of each transaction will be taken from the
+   transfer - 1% burned out, the other 1% goes to the staking/reward
+   redistribution pool which indeed speeds up the process of reducing supply,
+remaining 0,5% goes to Liquidity pool.
    Smart Contract itself assumes that a total of 90% of all BSKT will be burned
    -> supply will decrease from 21,000,000 to 2,100,000.
 
 &nbsp;
 
-2. The BSKT token is secured with a basket of seven cryptocurrencies that cover
+2. The BSKT token is secured with a basket of several cryptocurrencies that cover
    its value. The security so adopted is intended to ensure a constant and
    stable increase in the value of tokens. Thanks to the correct match of coins
    in our basket, its value is less susceptible to fluctuations appearing in the
    cryptocurrency market. The BSKT token security chart looks like this:
 
-- Bitcoin (BTC) – responsible for 25% of the value of the coverage,
-- Ethereum (ETH) – responsible for 25% of the coverage value,
-- Polkadot (DOT) – responsible for 10% of the coverage value,
-- Smarkey (SKEY) – responsible for 10% of the coverage value,
-- YfDAI.finance (YF-DAI) – responsible for 10% of the coverage value,
-- USD Coin (USDC) – responsible for 10% of the coverage value,
-- Basketcoin (BSKT) – responsible for 10% of the coverage value.
+- Bitcoin (BTC),
+- Ethereum (ETH),
+- Polkadot (DOT),
+- Smarkey (SKEY),
+- YfDAI.finance (YF-DAI),
+- USD Coin (USDC),
+- Basketcoin (BSKT)
+- CCfound 
+- Synapse Network (SNP)
+- Ari10.
 
 &nbsp;
 
